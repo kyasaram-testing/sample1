@@ -4,7 +4,7 @@ public class Test1
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Hi friends.....how r u?");
-		System.out.println("pull push_____GIT Game");
+		System.out.println("Hello Rohan");
+		System.out.println("Y Riyaz want to change bro its not possible");
 	}
 }
